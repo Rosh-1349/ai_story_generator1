@@ -13,7 +13,7 @@ Original file is located at
 
 !pip install streamlit transformers torch pyngrok
 
-!ngrok config add-authtoken 2zNFIXl4wsCxhSJcu3uIWbLlPF6_5dRP4q3Gs8cG4GTbCEiJ3
+!ngrok config add-authtoken 2zNFIXl4wsCxhSJc4GTbCEiJ3
 
 # Commented out IPython magic to ensure Python compatibility.
 # %%writefile app.py
